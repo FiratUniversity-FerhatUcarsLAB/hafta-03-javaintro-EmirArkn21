@@ -1,0 +1,1 @@
+Bu görevde geometrik şekillerin alan ve çevrelerini hesapladım. Önce DaireHesap programında yarıçapı 5.5 olan bir dairenin alanını ve çevresini hesapladım ve ekrana yazdırdım. Daha sonra dikdörtgen ve üçgen için de alan ve çevre hesaplamalarını yaptım. Üçgenin alanını Heron formülü ile buldum. Bunlar sayesinde değişkenleri kullanmayı ve temel matematiksel işlemleri denedim.
