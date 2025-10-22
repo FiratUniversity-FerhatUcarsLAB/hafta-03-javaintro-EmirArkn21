@@ -1,0 +1,1 @@
+Bu görevde ekrana farklı mesajlar yazdıran basit Java programları yaptım. İlk olarak UcMesaj.java dosyasında üç farklı hoş geldin mesajı ekrana bastım.Sonra aynı mesajı beş kere yazdırmayı denedim. Son olarak JavaDeseni sınıfında harflerle “JAVA” kelimesini desen şeklinde ekrana çizdim. Bu alıştırma sayesinde System.out.println() komutunu öğrendim.
