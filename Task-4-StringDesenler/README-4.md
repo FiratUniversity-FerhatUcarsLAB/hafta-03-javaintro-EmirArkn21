@@ -1,0 +1,1 @@
+Bu ödevde string birleştirme ve metin formatlamayı kullandım. Öğrenci bilgilerini güzel bir kart formatında ekrana yazdırdım, ismimin baş harfini ASCII ile çizdim ve alışveriş listesini tablo şeklinde gösterdim. Bu sayede metinleri düzenli bir şekilde ekrana yazmayı denedim.
