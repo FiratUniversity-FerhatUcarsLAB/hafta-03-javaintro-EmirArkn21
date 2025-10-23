@@ -1,0 +1,1 @@
+Bu ödevde tablolar ve karmaşık formatlarda çıktılar oluşturmayı öğrendim. Önce 1’den 5’e kadar sayıların üslerini tablo hâlinde yazdırdım (a, a², a³). Daha sonra mil → kilometre dönüşüm tablosu ve 2’nin çarpım tablosunu ekrana gösterdim. Bu sayede matematiksel işlemleri tablo formatında ekrana yazdırmayı ve düzenli çıktı almayı denedim ve öğrendim.
